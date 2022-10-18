@@ -1,0 +1,2 @@
+baixar dependencias -> npm install
+rodar o vite -> npm run dev
